@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9931bd53.css",
+    "main.js": "/static/js/main.28d10a46.js",
+    "static/media/img1.png": "/static/media/img1.c87bb34426c0bc524be2.png",
+    "static/media/img5.png": "/static/media/img5.171c3c5f660ff4391244.png",
+    "static/media/lv.png": "/static/media/lv.0fbd0e2d11eb61680a22.png",
+    "static/media/hm.png": "/static/media/hm.ccae95a561b54b424476.png",
+    "static/media/zara.png": "/static/media/zara.4b7f68bf101137c9a96b.png",
+    "static/media/img7.jpg": "/static/media/img7.d43c04e0fa282b97f601.jpg",
+    "static/media/zalando.png": "/static/media/zalando.4522ef82f6c9669d5c66.png",
+    "static/media/lulu.png": "/static/media/lulu.ff9c6274cfc4f1800cd6.png",
+    "static/media/gucci.png": "/static/media/gucci.29a4660d2d97a8da4a7a.png",
+    "static/media/nike.png": "/static/media/nike.0244fe5ede2e55f50bf6.png",
+    "static/media/twitter.png": "/static/media/twitter.d598f3a49eab654e340f.png",
+    "static/media/moncler.png": "/static/media/moncler.78c6a47983fb8cdf20ed.png",
+    "static/media/instagram.png": "/static/media/instagram.4845c1c3eb20837965ac.png",
+    "static/media/chanel.png": "/static/media/chanel.e3f3633fb8347129b320.png",
+    "static/media/facebook.png": "/static/media/facebook.2ad6f4194eee1ddd32c2.png",
+    "static/media/img2.jpg": "/static/media/img2.47e023334d7935c5c894.jpg",
+    "static/media/cartier.png": "/static/media/cartier.f30a6896647b4a107a9f.png",
+    "static/media/img6.jpg": "/static/media/img6.2c20c3de3b1660f7dfa8.jpg",
+    "static/media/img3.jpg": "/static/media/img3.562b1c5245bafd3176c5.jpg",
+    "static/media/img4.jpg": "/static/media/img4.77f9444d1ee84adbd2fa.jpg",
+    "static/media/arrow-right.png": "/static/media/arrow-right.a047fe68b104ae4adae5.png",
+    "static/media/hermes.png": "/static/media/hermes.393b2260b2f19e26b699.png",
+    "index.html": "/index.html",
+    "main.9931bd53.css.map": "/static/css/main.9931bd53.css.map",
+    "main.28d10a46.js.map": "/static/js/main.28d10a46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9931bd53.css",
+    "static/js/main.28d10a46.js"
+  ]
+}
